@@ -7,7 +7,7 @@ const filesToCache = [
   '/exploit.js',
   '/goldhen.bin',
   '/stage2_9.00.bin',
-  '/luffy'
+  '/luffy.jpg'
 ];
 
 self.addEventListener('install', e => {
